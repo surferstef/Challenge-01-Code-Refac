@@ -1,4 +1,4 @@
-# Code Refactor Starter Code
+# Challenge-01 HTML CSS Git Challenge: Stefan Hall's Code Refactor
 Name: Stefan Hall
 
 Class: UCB-VIRT-BO-FSF-PT-03-2021-U-B-MW

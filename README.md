@@ -21,4 +21,4 @@ Link to Deployed Application: https://github.com/surferstef/Challenge-01-Code-Re
 
 
 ## Screenshot
-![alt tag](README_sreenshot.png "Screenshot of Application")
+![Application Screenshot](Develop/README_screenshot.png "Screenshot of Application")

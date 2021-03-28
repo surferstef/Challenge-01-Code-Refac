@@ -1,5 +1,4 @@
 # Challenge-01 HTML CSS Git Challenge: Code Refactor
-Name: Stefan Hall
 
 Class: UCB-VIRT-BO-FSF-PT-03-2021-U-B-MW
 
@@ -16,6 +15,6 @@ This code repository is a refactor of an existing codebase for a social media we
 ## Contribution
 Made by Stefan Hall
 
-### 2020 Challenge-01 Refactor
+### 2021 Challenge-01 Refactor
 
 Link to Deployed Application: https://github.com/surferstef/Challenge-01-Code-Refac.git

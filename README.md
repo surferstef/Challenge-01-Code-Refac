@@ -17,7 +17,7 @@ Made by Stefan Hall
 
 ### 2021 Challenge-01 Refactor
 
-Link to Deployed Application: https://github.com/surferstef/Challenge-01-Code-Refac.git
+Link to Deployed Application: https://surferstef.github.io/Challenge-01-Code-Refac/
 
 
 ## Screenshot
